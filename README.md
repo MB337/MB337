@@ -7,7 +7,7 @@
 - 💡 I am a 15 years old "student-developer" of Python, HTML and CSS.
 - 🔭 I’m currently working on Python 3!
 - 🌱 I’m currently learning everything on Python and Javascript 
-- 🤓 I'm a ITIS Castelli(BS) student
+- 🤓 I'm a IIS Castelli(BS) student
 
 
 ### Connect with me:
