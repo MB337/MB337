@@ -4,7 +4,7 @@
 ### Hi there, I'm Matteo Bianchi👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/MBMatteoBianchi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=MBMatteoBianchi)
 
-- 💡 I am a 16 years old "student-developer" of Python, HTML and CSS.
+- 💡 I am a 16 years old student and "developer" of Python, HTML and CSS.
 - 🔭 I’m currently working on Python 3!
 - 🌱 I’m currently learning everything on Python and Javascript 
 - 🤓 I'm a IIS Castelli(BS) student
